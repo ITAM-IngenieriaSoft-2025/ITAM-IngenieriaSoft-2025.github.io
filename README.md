@@ -1,2 +1,2 @@
 # paulinabustos.github.io
-ejercicio
+ITAM Ingeniería de Software 2024
